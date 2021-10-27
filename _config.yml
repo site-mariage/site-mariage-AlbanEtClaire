@@ -10,8 +10,8 @@ title: Alban et Claire
 email: thi.suzanne@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Site du mariage d'Alban et Claire
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://albanetclaire.fr" # the base hostname & protocol for your site
+baseurl: "/site-mariage-AlbanEtClaire" # the subpath of your site, e.g. /blog
+url: "https://site-mariage.github.io/site-mariage-AlbanEtClaire/" # the base hostname & protocol for your site
 github_username:  thizanne
 
 # Build settings
